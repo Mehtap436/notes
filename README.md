@@ -2,7 +2,22 @@ My notes
 
 GitHub.io adress this page: https://mehtap436.github.io/notes/
 
+## Search Experiments
+Try searching for the word "line"
 
+```
+Line
+line
+lines
+line 5
+line:7
+line72
+line73.4
+end of line
+end:of:line
+outline
+linear
+```
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
