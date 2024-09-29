@@ -72,7 +72,18 @@ Expriments
 *💯
 
 
-
+jekyll-theme-architect
+jekyll-theme-cayman
+jekyll-theme-dinky
+jekyll-theme-hacker
+jekyll-theme-leap-day
+jekyll-theme-merlot
+jekyll-theme-midnight
+jekyll-theme-minimal
+jekyll-theme-modernist
+jekyll-theme-slate
+jekyll-theme-tactile
+jekyll-theme-time-machine
 
 
 
