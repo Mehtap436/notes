@@ -1,4 +1,9 @@
-My notes 
+# My notes 
+
+[-[ [CLI command notes] (docs/cli.md)]](https://)
+
+
+-[[ [Config notes] (config/cfg.md)]](https://)
 
 GitHub.io adress this page: https://mehtap436.github.io/notes/
 
@@ -18,6 +23,7 @@ end:of:line
 outline
 linear
 ```
+
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
@@ -49,6 +55,8 @@ Number row charecters 1 2 3 4 5
 
 
 Links
+ 
+[-[link text] (example.com) ][def]
 
 <br>
 
@@ -87,3 +95,6 @@ jekyll-theme-time-machine
 
 
 
+
+
+[def]: https://
