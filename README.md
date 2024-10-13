@@ -1,9 +1,9 @@
 # My notes 
 
-[-[ [CLI command notes] (docs/cli.md)]](https://)
+- [CLI command notes](docs/cli.md)
 
 
--[[ [Config notes] (config/cfg.md)]](https://)
+- [Config notes](config/cfg.md)
 
 GitHub.io adress this page: https://mehtap436.github.io/notes/
 
