@@ -1,0 +1,23 @@
+[ 
+  {
+    "title": "The Kite Runner", //sting
+    "published": 2003, //number
+    "author": {"name": "Khaled Hosseini", "born":1965 }, //object
+    "pages": 371, //number
+    
+  },
+  
+    
+
+{
+  "stringExample": "Hello World",
+  "numberExample": 51,
+  "booleanExample": false,
+  "nullExample": null,
+  "arrayEaxmple": [1,2,3],
+  "objectExample": {
+  
+}
+
+]
+  
